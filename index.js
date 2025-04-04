@@ -24,3 +24,4 @@ form.addEventListener("submit", (e) => {
 
   form.reset();
 });
+/* second attempt on the java script */
